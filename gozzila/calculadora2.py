@@ -1,1 +1,2 @@
-Print(Hola esta es mi calculadora)
+Print("Hola esta es mi calculadora")
+print(5+5)
